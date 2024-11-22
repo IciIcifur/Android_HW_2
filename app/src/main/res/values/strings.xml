@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HW_2</string>
+    
+
+        <string name="flower">Flower</string>
+        <string name="note">Note</string>
+        <string name="eye">Eye</string>
+        <string name="heart">Heart</string>
+        <string name="butterfly">Butterfly</string>
+        <string name="hands">Hands</string>
+        <string name="mouth">Mouth</string>
+
+
+    <string name="color">Beige</string>
+</resources>
